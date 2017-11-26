@@ -39,7 +39,7 @@ public:
             normalized_pointer++;
         }
         const unsigned long i = return_bitset.to_ulong();
-        return static_cast<kt153_type>(i); ;
+        return static_cast<kt153_type>(i);
     }
     pointer_type get_pointer()
     {
